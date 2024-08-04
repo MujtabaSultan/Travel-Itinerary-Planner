@@ -1,0 +1,9 @@
+/* src/App.css */
+.completed {
+  text-decoration: line-through;
+  color: green;
+}
+
+.not-completed {
+  color: red;
+}
